@@ -16,8 +16,6 @@ This guide will show you how to:
 - **New User:** Click **Sign Up** and complete the registration process using your email, Google, or GitHub account.
 - **Existing User:** Click **Log In** and enter your credentials.
 
-![RapidAPI Homepage](path/to/image.jpg)
-
 ---
 ## Instructions to Get Your RapidAPI Key and subscribe to the Google Maps Extractor API
 
@@ -51,8 +49,6 @@ If you need more than 40 queries (around 4000 leads), you can subscribe to the o
 - **Column A:** Enter queries (e.g., "restaurants in New York").
 - **Column B:** Optional: Specify the number of results (`limit`).
 - **Column C:** Optional: Specify the language code (e.g., `en`).
-
-![Google Sheets Setup](path/to/image.jpg)
 
 ---
 
