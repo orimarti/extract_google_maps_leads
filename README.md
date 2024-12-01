@@ -133,10 +133,10 @@ function fetchDataAndUpdateSheets() {
 ## 5. Test the Script
 
 ### Step 1: Refresh the Menu
-- Save the script, close the editor, and refresh the spreadsheet.
+- Run and save the script, close the editor, and refresh the spreadsheet.
 ![Google Sheets Menu](google_maps_scraper_spreadsheets_run.png)
 ![Google Sheets Menu](google_maps_scraper_spreadsheets_save.png)
-- You’ll see a new menu option in spreadsheets called **GMaps**.
+- You’ll see a new menu in spreadsheets called **GMaps**.
 ![Google Sheets Menu](google_maps_scraper_spreadsheets_menu.png)
 
 
