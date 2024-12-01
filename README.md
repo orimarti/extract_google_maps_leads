@@ -50,6 +50,9 @@ If you need more than 40 queries (around 4000 leads), you can subscribe to the o
 - **Column B:** Optional: Specify the number of results (`limit`).
 - **Column C:** Optional: Specify the language code (e.g., `en`).
 
+![Google Sheets Setup](google_maps_scraper_spreadsheets_setup.png)
+
+
 ---
 
 ## 4. Create a Google Apps Script
@@ -181,3 +184,4 @@ function fetchDataAndUpdateSheets() {
 
 - **Rate Limits:** Ensure your usage complies with RapidAPI's rate limits.
 - **Error Handling:** If no data is returned, ensure the query is valid and the API key is active.
+
