@@ -181,4 +181,3 @@ function fetchDataAndUpdateSheets() {
 
 - **Rate Limits:** Ensure your usage complies with RapidAPI's rate limits.
 - **Error Handling:** If no data is returned, ensure the query is valid and the API key is active.
-
